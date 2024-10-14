@@ -52,11 +52,11 @@ GOOGLE_API_KEY=your_google_api_key
 streamlit run app.py
 ```
 
-2. Upload an Invoice Image: Use the provided interface to upload an image of an invoice in JPG, JPEG, or PNG format.
+2. **Upload an Invoice Image**: Use the provided interface to upload an image of an invoice in JPG, JPEG, or PNG format.
 
-3. Provide a Prompt: Enter a prompt to specify what you want to know about the invoice.
+3. **Provide a Prompt**: Enter a prompt to specify what you want to know about the invoice.
 
-4. Get the Response: Click on the 'Tell me about the invoice' button to generate and display the response.
+4. **Get the Response**: Click on the 'Tell me about the invoice' button to generate and display the response.
 
 ## 📝 Example Input
 - **Input Prompt**: "Extract the total amount and the date from this invoice."
